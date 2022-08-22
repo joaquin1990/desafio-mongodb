@@ -2,7 +2,7 @@
 
   command: ecommerce> db.products.find()
   ![1.1!](./images/1.1.jpg)
-  ![1.2!](images/1.2.jpg)
+  ![1.2!](./images/1.2.jpg)
 
   command: ecommerce> db.messages.find()
   ![1.3!](./images/1.3.png)
@@ -23,4 +23,12 @@ CRUD
   ![6.1!](./images/6.1.png)
 - Realizar una consulta que traiga solo el nombre del septimo producto mas barato:
   ![7.1!](./images/7.1.png)
-- Hacer una actualizacion sobre todos los productos, agregando el campo stock a todos ellos con un valor de 100:
+- Hacer una actualizacion sobre todos los productos, modificando el campo stock a todos ellos con un valor de 100:
+  ![8.1!](./images/8.1.png)
+  ![8.2!](./images/8.2.png)
+- Cambiar el stock a 0 de los productos con precios mayores a 700 pesos:
+  ![9.1!](./images/9.1.png)
+  ![9.2!](./images/9.2.png)
+  ![9.3!](./images/9.3.png
+- Borrar los productos con precio menor a 600 pesos:
+  ![10.1!](./images/10.1.png)
